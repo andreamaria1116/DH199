@@ -18,8 +18,8 @@ Week | Assignments
 3 (4/13-4/19) | Planning User Research
 4 (4/20-4/26) | Analysis of User Research
 5 (4/27-5/3) | Storytelling
-6 (5/4-5/10) | Low-Fidelity Prototyping
+6 (5/4-5/10) | Low-Fidelity Prototyping of FilmLA
 7 (5/11-5/17) | Interface Design & Impression Test
-8 (5/18-5/24) | Interactive Prototype
+8 (5/18-5/24) | Interactive Prototype of FilmLA
 9 (5/25-5/31) | Usability Testing
-10 (5/1-6/7) | Report
+10 (5/1-6/7) | Final Report
