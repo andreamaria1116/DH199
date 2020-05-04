@@ -49,4 +49,4 @@ Week | Assignments
 # [Link to Interview Notes](https://docs.google.com/spreadsheets/d/1L2WtlYnRWcKROMidcyexYo1jzjLU_H6L7R6BEADFhjY/edit?usp=sharing)| [Link to Videos](https://drive.google.com/drive/folders/1HAdTWw8nBA6zcpbw_AFPnx-f9V9AI_sO?usp=sharing) | [Link to Transcripts](https://drive.google.com/drive/folders/1QetJwwXcxvzYVqFB0AAa_rGmDzr9W0-J?usp=sharing) 
 
 ## Persona
-![persona](https://andreamaria1116.github.io/DH199/persona.png)
+![persona](https://andreamaria1116.github.io/DH199/Persona.png)
