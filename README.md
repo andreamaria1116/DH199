@@ -50,3 +50,10 @@ Week | Assignments
 
 ## Persona
 ![persona](https://andreamaria1116.github.io/DH199/Persona.png)
+
+## Scenario 1
+
+### Scenario:
+Noah is in Los Angeles beginning his trip. His friends want to spend the first day visiting the Hollywood Walk of Fame and getting to know the Hollywood area. Noah, however, is upset because they have not planned any film tourism for this first day, and he is very eager to see some of his favorite film sites and learn more about the history of film that exists in Los Angeles. He wants to see if there are any interesting film locations in the Hollywood area that he could stop by at while they are in the area without disrupting his friends' plans. 
+### Action:
+When Noah and his friends arrive to the Hollywood Walk of Fame, Noah pulls out his smartphone and opens the FilmLA application. The application opens up to the map setting, where he can see any film sites or historical film areas that are in the area. He sees a pin that is relatively closeby labeled as The Black Dahlia, which is one of his favorite films. When he clicks on the pin, it opens up to reveal that the site it is pinpointing is The Frolic Room, which is where the Black Dahlia in the film is seen for the last time. He walks over to the bar with one of his friends, using the application's location based services and map function to help guide him there. Once he arrives to the bar, he stands outside and clicks on the "View Scene" button in order to pull up the Augmented Reality filter. He looks at the image displayed on his phone, which is what his camera is seeing in front of him with an overlay over The Frolic Room showing the scene in which it appears. This allows him to fully immerse himself in the scene and feel like he is actually there. He then clicks on the "More Info" button to find further facts about the scene that was shot there, more about that location, and historical information about the film. 
