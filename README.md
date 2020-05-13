@@ -67,7 +67,7 @@ Noah is at his hotel room winding down the evening. He and his friends are tryin
 ### Action: 
 Noah opens up his FilmLA application and waits for the home screen to load. It opens up to the map setting, and he clicks on the search bar at the bottom of the page. He decides that he will probably have the most time to freely wander around while they are in Griffith Park, so he decides this is the time when he wants to visit a film location. He types in "Griffith Park" and hits the "GO" button. The map opens up to the Griffith Park area and shows him nearby film sites, and he discovers that there are a variety of pins on The Griffith Observatory. He sees that one of them is labeled "La La Land," which is a movie he really enjoyed, so he clicks on the star icon on the top left of the bubble to favorite the site so he can access it easily later. He then closes out the application, as he has found everything he wanted. He resolves to go see the spot where La La Land was taken while he and his friends are visiting Griffith Park.
 
-![Wireframe Scenario 2](https://andreamaria1116.github.io/DH199/WIREFRAME2.png)
+![Wireframe Scenario 2](https://andreamaria1116.github.io/DH199/WIREFRAME3.png)
 
 ## Scenario 3
 
@@ -76,7 +76,7 @@ It's the next day, and Noah is at Griffith Park with his friends. He is wanting 
 ### Action:
 Noah pulls out his phone and opens up his FilmLA application. After waiting for the home screen to load, it opens up to the map setting. Noah clicks on the star at the top left corner of the page, and it opens up to show all of the locations he has favorited in the past. In the second slot, he sees the box labeled "Griffith Observatory: La La Land" and clicks on it. This opens up the map function and opens up the pin at Griffith Park labeled "La La Land." He walks over to it, using the map and the applications location based services to direct himself. Once he gets to the location the pin is on, he clicks the "View Scene" buttonin order to pull up the Augmented Reality filter. He views the scene from the movie overlayed onto what his camera is viewing to feel as though he is really in the film, experiencing what the actors are.
 
-![Wireframe Scenario 3](https://andreamaria1116.github.io/DH199/WIREFRAME3.png)
+![Wireframe Scenario 3](https://andreamaria1116.github.io/DH199/WIREFRAME4.png)
 
 ## Scenario 4
 
@@ -85,5 +85,5 @@ Sarah is curious about where her favorite movie, Once Upon a Time... in Hollywoo
 ### Action:
 Sarah pulls out her smartphone and opens up the FilmLA application. After waiting for the application to load, it opens up to the map page. She clicks on the search bar at the bottom of the page, types in "Once Upon a Time... in Hollywood," and then clicks on the "GO" button. Both a map of the Hollywood area as well as some options at the bottom of potential movies pop up onto the screen. One of the movie options says "Once Upon a Time... in Hollywood" and matches the search for the title exactly, so she clicks on it. This takes her to a page full of information on the movie, such as the main plot, fun facts about filming, and also a list of places where the movie was filmed. She clicks on the "Regency Bruin Theatre" location, and it takes her to a map with a pin showing her the exact location of that scene, which is outside of the Regency Bruin Theatre in Westwood. She clicks on the star icon on the pin to favorite it, so that she can easily access it later when she is in the area of the theater. 
 
-![Wireframe Scenario 4](https://andreamaria1116.github.io/DH199/WIREFRAME4.png)
+![Wireframe Scenario 4](https://andreamaria1116.github.io/DH199/WIREFRAME2.png)
 ## [Link to Interactive Wireframes](https://xd.adobe.com/view/63136b1c-5746-49bf-4935-1359e07519cc-1522/) 
