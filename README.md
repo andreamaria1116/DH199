@@ -51,7 +51,7 @@ Week | Assignments
 ## Persona
 ![persona](https://andreamaria1116.github.io/DH199/Persona.png)
 
-## Scenario 1
+## Scenario 1: Browsing in Current Location
 
 ### Scenario:
 It's a Saturday afternoon, and Sarah is running errands in the Hollywood area. She finally finishes up her errands and has about an hour to kill before she has to meet up with her friend from out of town near the Hollywood Walk of Fame for dinner. She wants to see if there are any interesting film locations that are close to where she needs to meet her friend, so that she can stop by and see something interesting during her downtime. Sarah, however, has no idea where to even start looking, and does not have a lot of time to research any interesting film locations nearby. 
@@ -60,7 +60,7 @@ When Sarah arrives to the Hollywood Walk of Fame, she pulls out her smartphone a
 
 ![Wireframe Scenario 1](https://andreamaria1116.github.io/DH199/Wireframe1.png)
 
-## Scenario 2
+## Scenario 2: Planning a Trip
 
 ### Scenario: 
 Noah is at his hotel room winding down the evening. He and his friends are trying to plan out what sightseeing they are going to do the next day. His friends want to go visit Griffith Park in the morning, and then go to the beach and to dinner in Santa Monica afterwards. Noah wants to see if there are any interesting film locations near any of those places before he sets out the next day so he can have a plan set for himself. 
@@ -69,7 +69,7 @@ Noah opens up his FilmLA application and waits for the home screen to load. It o
 
 ![Wireframe Scenario 2](https://andreamaria1116.github.io/DH199/WIREFRAME3.png)
 
-## Scenario 3
+## Scenario 3: Accessing Favorites
 
 ### Scenario:
 It's the next day, and Noah is at Griffith Park with his friends. He is wanting to find the exact location where La La Land was filmed after seeing the pin for it at Griffith Park the day before. 
@@ -78,7 +78,7 @@ Noah pulls out his phone and opens up his FilmLA application. After waiting for 
 
 ![Wireframe Scenario 3](https://andreamaria1116.github.io/DH199/WIREFRAME4.png)
 
-## Scenario 4
+## Scenario 4: Search for a Specific Movie
 
 ### Scenario:
 Sarah is curious about where her favorite movie, Once Upon a Time... in Hollywood was filmed, and also wants to learn more facts about the film. She knows that it was filmed in Los Angeles, but is uncertain as to where exactly within the city it is. Although she has lived in Los Angeles for a few years now, she is not super familiar with all of the different neighborhoods, and so she can't tell exactly where a scene was filmed just by rewatching the movie. She does not, however, feel like taking the time to thoroughly research the film, as she will probably have to go through many sources in many mediums to find all of the information she wants. 
@@ -90,14 +90,14 @@ Sarah pulls out her smartphone and opens up the FilmLA application. After waitin
 
 # Wireframe User Testing
 
-## Scenario 1 Wireframe
+## Scenario 1 Wireframe: Browse in Current Location
 ![Wireframe Scenario 1 Testing](https://andreamaria1116.github.io/DH199/WIREFRAME1TESTING.png) 
 
-## Scenario 2 Wireframe
+## Scenario 2 Wireframe: Planning a Trip
 ![Wireframe Scenario 2 Testing](https://andreamaria1116.github.io/DH199/WIREFRAME2TESTING.png) 
 
-## Scenario 3 Wireframe
+## Scenario 3 Wireframe: Accessing Favorites
 ![Wireframe Scenario 3 Testing](https://andreamaria1116.github.io/DH199/WIREFRAME3TESTING.png) 
 
-## Scenario 4 Wireframe
+## Scenario 4 Wireframe: Search for a Specific Movie 
 ![Wireframe Scenario 4 Testing](https://andreamaria1116.github.io/DH199/WIREFRAME4TESTING.png) 
