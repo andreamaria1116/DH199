@@ -101,3 +101,6 @@ Sarah pulls out her smartphone and opens up the FilmLA application. After waitin
 
 ## Scenario 4 Wireframe: Search for a Specific Movie 
 ![Wireframe Scenario 4 Testing](https://andreamaria1116.github.io/DH199/WIREFRAME4TESTING.png) 
+
+# First Draft of High Fidelity Prototype
+[High Fidelity Prototype Draft 1](https://xd.adobe.com/view/2bff6b1e-cd55-4466-5c04-f9282e74ec8b-5dce/?fullscreen&hints=off)
