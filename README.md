@@ -104,3 +104,6 @@ Sarah pulls out her smartphone and opens up the FilmLA application. After waitin
 
 # First Draft of High Fidelity Prototype
 ## [High Fidelity Prototype Draft 1](https://xd.adobe.com/view/2bff6b1e-cd55-4466-5c04-f9282e74ec8b-5dce/?fullscreen&hints=off)
+
+## Completed High Fidelity Prototype
+## [High Fidelity Prototype](https://xd.adobe.com/view/f0212682-474c-4e5e-722e-835875836916-8610/?fullscreen&hints=off) 
